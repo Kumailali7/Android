@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "176205541766",
+    "firebase_url": "https://ipt20-32518.firebaseio.com",
+    "project_id": "ipt20-32518",
+    "storage_bucket": "ipt20-32518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176205541766:android:a4f48d4ff47ecc98a7fc07",
+        "android_client_info": {
+          "package_name": "com.example.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176205541766-sibqkvlnn0gn60sqf7hahva5p3t8klbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXfgph89PIUcknON6Y0A5LwAYDO7NXds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176205541766-sibqkvlnn0gn60sqf7hahva5p3t8klbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176205541766:android:8d585248cc03c84ca7fc07",
+        "android_client_info": {
+          "package_name": "com.example.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176205541766-sibqkvlnn0gn60sqf7hahva5p3t8klbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXfgph89PIUcknON6Y0A5LwAYDO7NXds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176205541766-sibqkvlnn0gn60sqf7hahva5p3t8klbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176205541766:android:c1850e1cb589ee1ca7fc07",
+        "android_client_info": {
+          "package_name": "com.example.uploadproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176205541766-sibqkvlnn0gn60sqf7hahva5p3t8klbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXfgph89PIUcknON6Y0A5LwAYDO7NXds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176205541766-sibqkvlnn0gn60sqf7hahva5p3t8klbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

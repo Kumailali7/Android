@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Insaniyat</string>
+
+    <string name="login">Login</string>
+    <string name="signup_volunteer">Sign Up Volunteer</string>
+    <string name="login_volunteer">Login Volunteer</string>
+    <string name="signup">Sign up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="mealdonation">Meal Donation</string>
+    <string name="monetarydonation">Monetary Donation</string>
+    <string name="bloodDonation">Blood Donation</string>
+    <string name="volunteerHome">Volunteer Home</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="user">User</string>
+    <string name="volunteerSession">Volunteer Session</string>
+    <string name="userHome">User Home</string>
+    <string name="heading">Welcome to Insaniyat!</string>
+    <string name="loginUser">User Login</string>
+    <string name="signupUser">User Registeration</string>
+    <string name="RandomMealDonation">Random Meal Donation</string>
+    <string name="dastarkhwan">Dastarkhwan</string>
+    <string name="mealdonate">Donate Meal</string>
+    <string name="servings">Number of servings</string>
+    <string name="date">Date</string>
+    <string name="admin">Admin</string>
+    <string name="loginAdmin">Admin Login</string>
+    <string name="insaniyat">Insaniyat</string>
+    <string name="home">Home</string>
+</resources>

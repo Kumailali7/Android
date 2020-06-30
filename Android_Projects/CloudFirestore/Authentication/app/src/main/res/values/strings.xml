@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Authentication</string>
+
+        <string name="title_activity_volunteer_signup">VolunteerSignup</string>
+        <string name="signin">Sign in</string>
+        <string name="signup">Sign up</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="phoneNumber">Phone Number</string>
+        <string name="logout">Logout</string>
+</resources>

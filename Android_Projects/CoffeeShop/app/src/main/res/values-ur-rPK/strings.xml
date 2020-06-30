@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="bill">Yeh Bill dedena</string>
+    <string name="chocolate">Chaaklet</string>
+    <string name="name">Naam</string>
+    <string name="price">50 rupee ki</string>
+    <string name="quantity">Kitne cup?</string>
+    <string name="title">Order Bataen</string>
+    <string name="whippedCream">Cream?</string>
+    <string name="toppings">Taaping</string>
+</resources>

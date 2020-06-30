@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Insaniyat</string>
+
+    <string name="login">Login</string>
+    <string name="signup_volunteer">Sign Up Volunteer</string>
+    <string name="login_volunteer">Login Volunteer</string>
+    <string name="signup">Sign up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="toppings">Toppings</string>
+    <string name="title">Place Your Order!</string>
+    <string name="price">$5 for each coffee</string>
+    <string name="name">Name</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="bill">Bill</string>
+</resources>
